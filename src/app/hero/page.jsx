@@ -17,6 +17,8 @@ import Hero7 from '@/components/heros/Hero7';
 import Hero8 from '@/components/heros/Hero8';
 import { hero7 } from '@/utils/codes/heros/hero7';
 import { hero8 } from '@/utils/codes/heros/hero8';
+import Hero9 from '@/components/heros/Hero9';
+import { hero9 } from '@/utils/codes/heros/heros9';
 
 export default function Heros() {
 
@@ -34,6 +36,7 @@ export default function Heros() {
           <Examples title='Textos a esquerda com imagem de fundo' code={hero5} component={<Hero5 />} />
           <Examples title='Apenas imagem com sombra' code={hero7} component={<Hero7 />} />
           <Examples title='Imagem com sombra e texto embaixo' code={hero8} component={<Hero8 />} />
+          <Examples title='Banner com video de background' code={hero9} component={<Hero9 />} />
           
         </div>
       </div>

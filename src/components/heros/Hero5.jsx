@@ -12,13 +12,13 @@ export default function Hero5() {
 
                     <div className="flex items-center justify-start gap-x-8">
                         <a
-                            href="https://wa.me/5581984255222?text=Ol%C3%A1%2C+vim+atrav%C3%A9s+do+seu+site+e+gostaria+de+mais+informa%C3%A7%C3%B5es%21" target="_blank"
+                            href="" target="_blank"
                             className="rounded-md bg-[#00CE18] px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-[#3ea14a] focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600"
                         >
                             Entrar em contato
                         </a>
                         <a
-                            href="https://wa.me/5581984255222?text=Ol%C3%A1%2C+vim+atrav%C3%A9s+do+seu+site+e+gostaria+de+mais+informa%C3%A7%C3%B5es%21" target="_blank"
+                            href="" target="_blank"
                             className="rounded-md border border-[#00CE18] px-3.5 py-2.5 text-sm font-semibold text-black shadow-sm hover:bg-[#00CE18] hover:text-white focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600"
                         >
                             Saiba mais <span aria-hidden="true">→</span>
