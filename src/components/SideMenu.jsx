@@ -16,6 +16,7 @@ export default function SideMenu() {
                     <MenuItem component={<Link href="/numbers" />}> Seções com números </MenuItem>
                     <MenuItem component={<Link href="/contact" />}> Contato </MenuItem>
                     <MenuItem component={<Link href="/ctas" />}> CTA's </MenuItem>
+                    <MenuItem component={<Link href="/footers" />}> Footers </MenuItem>
                 </SubMenu>
             </Menu>
         </Sidebar>
