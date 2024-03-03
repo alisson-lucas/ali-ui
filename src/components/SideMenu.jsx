@@ -10,13 +10,13 @@ export default function SideMenu() {
                 <MenuItem> Como Usar </MenuItem>
                 <SubMenu label="Componentes" defaultOpen={true}>
                     <MenuItem component={<Link href="/" />}> Headers </MenuItem>
-                    <MenuItem component={<Link href="/hero" />}> Banners </MenuItem>
-                    <MenuItem component={<Link href="/about" />}> Sobre </MenuItem>
-                    <MenuItem component={<Link href="/features" />}> Diferenciais/Ofertas </MenuItem>
-                    <MenuItem component={<Link href="/numbers" />}> Seções com números </MenuItem>
-                    <MenuItem component={<Link href="/contact" />}> Contato </MenuItem>
-                    <MenuItem component={<Link href="/ctas" />}> CTA's </MenuItem>
-                    <MenuItem component={<Link href="/footers" />}> Footers </MenuItem>
+                    <MenuItem component={<Link href="/components/hero" />}> Banners </MenuItem>
+                    <MenuItem component={<Link href="/components/about" />}> Sobre </MenuItem>
+                    <MenuItem component={<Link href="/components/features" />}> Diferenciais/Ofertas </MenuItem>
+                    <MenuItem component={<Link href="/components/numbers" />}> Seções com números </MenuItem>
+                    <MenuItem component={<Link href="/components/contact" />}> Contato </MenuItem>
+                    <MenuItem component={<Link href="/components/ctas" />}> CTA's </MenuItem>
+                    <MenuItem component={<Link href="/components/footers" />}> Footers </MenuItem>
                 </SubMenu>
             </Menu>
         </Sidebar>

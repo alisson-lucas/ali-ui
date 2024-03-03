@@ -22,12 +22,21 @@ import { header7 } from '@/utils/codes/headers/header7';
 import { header8 } from '@/utils/codes/headers/header8';
 import { header9 } from '@/utils/codes/headers/header9';
 import { header10 } from '@/utils/codes/headers/header10';
+import Hero from '@/components/home/Hero';
+import About from '@/components/home/About';
+import HowToUse from '@/components/home/HowToUse';
+import Components from '@/components/home/Components';
 
 export default function Home() {
 
   return (
     <>
-      <div className='flex items-center justify-center bg-white text-black w-full h-full py-40 p-20 px-10'>
+
+      <Hero />
+      <About />
+      <HowToUse />
+      <Components />
+      {/* <div className='flex items-center justify-center bg-white text-black w-full h-full py-40 p-20 px-10'>
         <div className='flex flex-col items-start justify-center w-full container gap-10'>
           <span className='text-4xl font-semibold'>Headers</span>
 
@@ -43,7 +52,7 @@ export default function Home() {
           <Examples title='bordas arredondadas' code={header9} component={<Header9 />} />
 
         </div>
-      </div>
+      </div> */}
     </>
   )
 }
