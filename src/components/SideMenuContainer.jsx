@@ -6,7 +6,7 @@ export default function SideMenuContainer() {
   const [collapsed, setCollapsed] = useState(false);
 
     return (
-        <div className={`relative flex flex-col h-screen ${collapsed ? 'w-16' : 'w-64'}  z-40`}>
+        <div className={`relative flex flex-col h-screen ${collapsed ? 'w-16' : 'w-[250px]'}  z-40`}>
             <SideMenu collapsed={collapsed} setCollapsed={setCollapsed}/>
         </div>
     )
