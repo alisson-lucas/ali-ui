@@ -1,5 +1,5 @@
 export const contact4 = `
-<section className="flex items-center justify-center relative w-full shadow-lg isolate bg-[#fefefd]">
+<section className="flex items-center justify-center relative w-full  bg-[#fefefd]">
     <div className="flex flex-col lg:flex-row items-center justify-between w-full">
         <div className='flex relative lg:w-1/2 h-auto'>
             <img src='/images/background2.jpg' width={900} height={800} className='block z-30' />

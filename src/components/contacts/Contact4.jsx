@@ -42,10 +42,10 @@ export default function Contact4() {
 
     return (
 
-        <section className="flex items-center justify-center relative w-full shadow-lg isolate bg-[#fefefd]">
+        <section className="flex items-center justify-center relative w-full  bg-[#fefefd]">
             <div className="flex flex-col lg:flex-row items-center justify-between w-full">
                 <div className='flex relative lg:w-1/2 h-auto'>
-                    <img src='/images/background2.jpg' width={900} height={800} className='block z-30' />
+                    <img src='https://picsum.photos/900/800' width={900} height={800} className='block z-30' />
                 </div>
                 <div className="flex flex-col text-start gap-10 w-full lg:w-1/2 py-10 px-14 lg:px-20">
                     <h1 className="text-4xl lg:text-4xl text-center font-bold tracking-tight text-gray-900 sm:text-6xl">

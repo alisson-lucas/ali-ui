@@ -1,5 +1,5 @@
 export const hero2 = `
-<div className="flex items-center justify-center relative w-full shadow-lg isolate px-6 py-14 lg:px-8 bg-[#fefefd]">
+<div className="flex items-center justify-center relative w-full  px-6 py-14 lg:px-8 bg-[#fefefd]">
     <div
         className="absolute inset-x-0 -top-40 -z-10 transform-gpu overflow-hidden blur-3xl sm:-top-80"
         aria-hidden="true"
@@ -12,7 +12,7 @@ export const hero2 = `
             }}
         />
     </div>
-    <div className="flex flex-col lg:flex-row items-center justify-center w-full lg:max-w-screen-lg 2xl:max-w-screen-xl py-28">
+    <div className="flex flex-col lg:flex-row items-center justify-center w-full container py-28">
         <div className="flex flex-col text-center items-center justify-center gap-10 w-full lg:w-1/2">
             <h1 className="text-5xl lg:text-6xl font-bold tracking-tight text-gray-900 sm:text-6xl">
                 Melhore sua produtividade

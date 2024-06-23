@@ -1,6 +1,6 @@
 export const about5 = `
 <div className="flex items-center justify-center w-full bg-[url('/images/peoples.jpg')] bg-cover bg-no-repeat after:content[''] after:absolute after:bg-black/[.50] after:top-0 after:bottom-0 after:right-0 after:left-0 after:z-20">
-    <div className="flex flex-col items-center justify-between text-start  gap-14 w-full lg:max-w-screen-lg 2xl:max-w-screen-xl py-10 lg:py-20 px-8 lg:px-20 z-30">
+    <div className="flex flex-col items-center justify-between text-start  gap-14 w-full container py-10 lg:py-20 px-8 lg:px-20 z-30">
         <h1 className="text-5xl lg:text-6xl font-bold tracking-tight text-white sm:text-6xl">
             Somos a melhor escolha
         </h1>

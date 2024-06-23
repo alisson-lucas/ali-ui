@@ -1,7 +1,7 @@
 export default function About1() {
     return (
         <div className="flex items-center justify-center w-full bg-white">
-            <div className="flex flex-col items-center justify-between text-start gap-14 w-full lg:max-w-screen-lg 2xl:max-w-screen-xl py-10 lg:py-20 px-8 lg:px-20">
+            <div className="flex flex-col items-center justify-between text-start gap-14 w-full container py-10 lg:py-20 px-8 lg:px-20">
                 <h1 className="text-5xl lg:text-6xl font-bold tracking-tight text-gray-900 sm:text-6xl">
                     Somos a melhor escolha
                 </h1>

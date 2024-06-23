@@ -1,8 +1,8 @@
 export const hero5 = `
 <div style={{
     '--image-url': 'url('/images/background3.png')',
-}} className="flex items-center justify-center relative w-full shadow-lg isolate px-6 py-14 2xl:py-28 lg:px-8 bg-[image:var(--image-url)] bg-cover bg-center bg-no-repeat">
-    <div className="flex flex-col lg:flex-row items-center justify-between w-full lg:max-w-screen-lg 2xl:max-w-screen-xl py-28">
+}} className="flex items-center justify-center relative w-full  px-6 py-14 2xl:py-28 lg:px-8 bg-[image:var(--image-url)] bg-cover bg-center bg-no-repeat">
+    <div className="flex flex-col lg:flex-row items-center justify-between w-full container py-28">
         <div className="flex flex-col text-start gap-10 w-full lg:w-1/2">
             <h1 className="text-5xl lg:text-6xl font-bold tracking-tight text-gray-900 sm:text-6xl">
                 Melhore sua produtividade

@@ -4,7 +4,7 @@ export default function Feature8() {
             <div className="flex flex-col items-center lg:items-start justify-between w-full container py-10 px-8 lg:px-14">
                 <div className="flex flex-col lg:flex-row items-center justify-center w-full">
                     <div className='flex relative lg:w-1/2 h-auto'>
-                        <img src='/images/01.jpg' width={900} height={800} className='block z-30' />
+                        <img src='https://picsum.photos/900/800' width={900} height={800} className='block z-30' />
                     </div>
                     <div className="flex flex-col text-start gap-10 w-full lg:w-1/2 py-10 px-0 lg:px-20">
                         <h1 className="text-5xl lg:text-6xl font-bold tracking-tight text-gray-900 sm:text-6xl">
@@ -39,12 +39,12 @@ export default function Feature8() {
                         </div>
                     </div>
                     <div className='flex relative lg:w-1/2 h-auto'>
-                        <img src='/images/02.jpg' width={900} height={800} className='block z-30' />
+                        <img src='https://picsum.photos/900/800' width={900} height={800} className='block z-30' />
                     </div>
                 </div>
                 <div className="flex flex-col lg:flex-row items-center justify-center w-full">
                     <div className='flex relative lg:w-1/2 h-auto'>
-                        <img src='/images/03.jpg' width={900} height={800} className='block z-30' />
+                        <img src='https://picsum.photos/900/800' width={900} height={800} className='block z-30' />
                     </div>
                     <div className="flex flex-col text-start gap-10 w-full lg:w-1/2 py-10 px-0 lg:px-20">
                         <h1 className="text-5xl lg:text-6xl font-bold tracking-tight text-gray-900 sm:text-6xl">

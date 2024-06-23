@@ -10,21 +10,21 @@ export default function Feature4() {
 
                 <div className="flex flex-row flex-wrap w-full items-center justify-center gap-10">
                     <article className="flex flex-col items-center justify-center w-full lg:w-[calc(100%/3-30px)] gap-6 py-6 p-4">
-                        <img src="/images/01.jpg" className="w-80 h-80" alt="imagem" />
+                        <img src="https://picsum.photos/320" className="w-80 h-80" alt="imagem" />
                         <div className="flex flex-col items-start justify-center w-full 2xl:px-10 gap-8">
                             <span className="text-base text-black font-semibold">Praticidade</span>
                             <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Assumenda obcaecati facilis commodi accusamus corporis quasi</p>
                         </div>
                     </article>
                     <article className="flex flex-col items-center justify-center w-full lg:w-[calc(100%/3-30px)] gap-6 py-6 p-4">
-                        <img src="/images/02.jpg" className="w-80 h-80" alt="imagem" />
+                        <img src="https://picsum.photos/320" className="w-80 h-80" alt="imagem" />
                         <div className="flex flex-col items-start justify-center w-full 2xl:px-10 gap-8">
                             <span className="text-base text-black font-semibold">Performance</span>
                             <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Assumenda obcaecati facilis commodi accusamus corporis quasi</p>
                         </div>
                     </article>
                     <article className="flex flex-col items-center justify-center w-full lg:w-[calc(100%/3-30px)] gap-6 py-6 p-4">
-                        <img src="/images/03.jpg" className="w-80 h-80" alt="imagem" />
+                        <img src="https://picsum.photos/320" className="w-80 h-80" alt="imagem" />
                         <div className="flex flex-col items-start justify-center w-full 2xl:px-10 gap-8">
                             <span className="text-base text-black font-semibold">Criatividade</span>
                             <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Assumenda obcaecati facilis commodi accusamus corporis quasi</p>

@@ -1,6 +1,6 @@
 export default function Hero() {
     return (
-        <div className="flex items-center justify-center relative w-full shadow-lg isolate px-6 py-14 lg:px-8 bg-[#fefefd]">
+        <div className="flex items-center justify-center relative w-full  px-6 py-14 lg:px-8 bg-[#fefefd]">
             <div
                 className="absolute inset-x-0 -top-40 -z-10 transform-gpu overflow-hidden blur-3xl sm:-top-80"
                 aria-hidden="true"
@@ -13,7 +13,7 @@ export default function Hero() {
                     }}
                 />
             </div>
-            <div className="flex flex-col lg:flex-row items-center justify-between w-full lg:max-w-screen-lg 2xl:max-w-screen-xl gap-20 py-10 lg:py-28">
+            <div className="flex flex-col lg:flex-row items-center justify-between w-full container gap-20 py-10 lg:py-28">
                 <div className="flex flex-col text-start gap-10 w-full lg:w-1/2">
                     <h1 className="text-5xl lg:text-6xl font-bold tracking-tight text-gray-900 sm:text-6xl">
                         Melhore sua produtividade
@@ -36,7 +36,7 @@ export default function Hero() {
                     </div>
                 </div>
                 <div className='flex relative'>
-                    <img src='/images/homem3d.jpg' width={450} height={367} className='block z-30 rounded-lg' />
+                    <img src='https://picsum.photos/450/367' width={450} height={367} className='block z-30 rounded-lg' />
                 </div>
             </div>
             <div

@@ -1,5 +1,5 @@
 export const about4 = `
-<div className="flex items-center justify-center relative w-full shadow-lg isolate bg-[#fefefd]">
+<div className="flex items-center justify-center relative w-full  bg-[#fefefd]">
     <div className="flex flex-col lg:flex-row items-center justify-between w-full">
         <div className="flex flex-col items-start justify-center text-start gap-10 w-full lg:w-1/2 py-10 px-14 lg:px-20">
             <h1 className="text-5xl lg:text-6xl font-bold tracking-tight text-gray-900 sm:text-6xl">
