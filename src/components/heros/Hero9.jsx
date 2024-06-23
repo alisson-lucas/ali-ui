@@ -1,13 +1,15 @@
 export default function Hero9() {
     return (
-        <div className="relative">
-            <video
+        <div className="relative w-full h-[840px]">
+            {/* <video
                 className="w-full h-full object-cover"
                 autoPlay
                 muted
                 loop
-                src="/assets/video.mp4"
-            ></video>
+                src="https://www.youtube.com/embed/7X8II6J-6mU;controls=0?autoplay=1&mute=1&loop=1"
+            >
+            </video> */}
+            <iframe src="https://www.youtube.com/embed/7X8II6J-6mU;controls=0?autoplay=1&mute=1&loop=1" frameborder="0" allow="autoplay" referrerpolicy="strict-origin-when-cross-origin"  className="w-full h-full object-cover"></iframe>
             <div className="absolute top-0 left-0 w-full h-full bg-black opacity-50"></div>
             <div className="absolute top-0 left-0 w-full h-full flex justify-center items-center">
                 <div className="flex flex-col gap-6 text-white text-center">
