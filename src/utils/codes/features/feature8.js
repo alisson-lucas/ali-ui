@@ -6,7 +6,7 @@ export const feature8 = `
                 <img src='/images/01.jpg' width={900} height={800} className='block z-30' />
             </div>
             <div className="flex flex-col text-start gap-10 w-full lg:w-1/2 py-10 px-0 lg:px-20">
-                <h1 className="text-5xl lg:text-6xl font-bold tracking-tight text-gray-900 sm:text-6xl">
+                <h1 className="text-5xl lg:text-6xl font-bold tracking-tight text-gray-900">
                     Melhore sua Praticidade
                 </h1>
                 <span className='text-gray-700'>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Assumenda obcaecati facilis commodi accusamus corporis quasi excepturi quaerat deleniti consequatur? Ipsum, culpa? Error distinctio numquam veritatis atque rem ratione expedita corrupti.</span>
@@ -14,7 +14,7 @@ export const feature8 = `
                 <div className="flex items-center justify-start gap-x-8">
                     <a
                         href="" target="_blank"
-                        className="rounded-md bg-[#00CE18] px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-[#3ea14a] focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600"
+                        className="rounded-md bg-[#00CE18] px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-[#3ea14a] "
                     >
                         Saiba mais
                     </a>
@@ -23,7 +23,7 @@ export const feature8 = `
         </div>
         <div className="flex flex-col-reverse lg:flex-row items-center justify-center w-full">
             <div className="flex flex-col  text-start gap-10 w-full lg:w-1/2 py-10 px-0 lg:px-20">
-                <h1 className="text-5xl lg:text-6xl font-bold tracking-tight text-gray-900 sm:text-6xl">
+                <h1 className="text-5xl lg:text-6xl font-bold tracking-tight text-gray-900">
                     Melhore sua Performance
                 </h1>
                 <span className='text-gray-700'>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Assumenda obcaecati facilis commodi accusamus corporis quasi excepturi quaerat deleniti consequatur? Ipsum, culpa? Error distinctio numquam veritatis atque rem ratione expedita corrupti.</span>
@@ -31,7 +31,7 @@ export const feature8 = `
                 <div className="flex items-center justify-start gap-x-8">
                     <a
                         href="" target="_blank"
-                        className="rounded-md bg-[#00CE18] px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-[#3ea14a] focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600"
+                        className="rounded-md bg-[#00CE18] px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-[#3ea14a] "
                     >
                         Saiba mais
                     </a>
@@ -46,7 +46,7 @@ export const feature8 = `
                 <img src='/images/03.jpg' width={900} height={800} className='block z-30' />
             </div>
             <div className="flex flex-col text-start gap-10 w-full lg:w-1/2 py-10 px-0 lg:px-20">
-                <h1 className="text-5xl lg:text-6xl font-bold tracking-tight text-gray-900 sm:text-6xl">
+                <h1 className="text-5xl lg:text-6xl font-bold tracking-tight text-gray-900">
                     Melhore sua criatividade
                 </h1>
                 <span className='text-gray-700'>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Assumenda obcaecati facilis commodi accusamus corporis quasi excepturi quaerat deleniti consequatur? Ipsum, culpa? Error distinctio numquam veritatis atque rem ratione expedita corrupti.</span>
@@ -54,7 +54,7 @@ export const feature8 = `
                 <div className="flex items-center justify-start gap-x-8">
                     <a
                         href="" target="_blank"
-                        className="rounded-md bg-[#00CE18] px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-[#3ea14a] focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600"
+                        className="rounded-md bg-[#00CE18] px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-[#3ea14a] "
                     >
                         Saiba mais
                     </a>

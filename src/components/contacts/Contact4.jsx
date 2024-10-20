@@ -48,7 +48,7 @@ export default function Contact4() {
                     <img src='https://picsum.photos/900/800' width={900} height={800} className='block z-30' />
                 </div>
                 <div className="flex flex-col text-start gap-10 w-full lg:w-1/2 py-10 px-14 lg:px-20">
-                    <h1 className="text-4xl lg:text-4xl text-center font-bold tracking-tight text-gray-900 sm:text-6xl">
+                    <h1 className="text-4xl lg:text-4xl text-center font-bold tracking-tight text-gray-900">
                         Vamos conversar!
                     </h1>
                     <span className='text-gray-700 text-base'>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Assumenda obcaecati facilis commodi accusamus corporis quasi excepturi quaerat deleniti consequatur? Ipsum, culpa? Error distinctio numquam veritatis atque rem ratione expedita corrupti.</span>
